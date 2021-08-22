@@ -1,2 +1,2 @@
-#Sudoku project for Agile programming university course.\
-*Implementation of Sudoku in Java programming language with the use of several design patterns and good practices.
+# Sudoku_Project\
+Implementation of Sudoku in Java with the use of several design patterns and good practices for Agile programming university course.
